@@ -1,4 +1,4 @@
-Menggunakan DDOS dengan termux bye Kumpulan Remaja
+\\\\Menggunakan DDOS dengan termux by kumpulan remaja <Edit by tiergans>
 
 kode perintah 
 
